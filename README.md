@@ -24,3 +24,14 @@ This project is an **AI-powered machine learning model** that predicts whether a
 | Deployment Ready | ✅ Pickle model file |
 
 
+## Project Structure
+
+AI-Model-Project/
+│
+├── dataset/                 # Contains training/testing datasets
+├── Save model/              # Stores the trained model files (.pkl )
+├── .ipynb_checkpoints/      # Jupyter Notebook checkpoints (auto-generated)
+├── Project_1.ipynb          # Main notebook for model training/testing
+├── requirements.txt         # Python dependencies
+├── README.md                # Project documentation
+└── .git/                    # Git repository folder
