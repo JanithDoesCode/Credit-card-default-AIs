@@ -28,10 +28,10 @@ This project is an **AI-powered machine learning model** that predicts whether a
 
 AI-Model-Project/
 │
-├── dataset/                 # Contains training/testing datasets
-├── Save model/              # Stores the trained model files (.pkl )
-├── .ipynb_checkpoints/      # Jupyter Notebook checkpoints (auto-generated)
-├── Project_1.ipynb          # Main notebook for model training/testing
-├── requirements.txt         # Python dependencies
-├── README.md                # Project documentation
-└── .git/                    # Git repository folder
+├── dataset/ # Contains training/testing datasets
+├── Save model/ # Stores the trained model files (.pkl)
+├── .ipynb_checkpoints/ # Jupyter Notebook checkpoints
+├── Project_1.ipynb # Main notebook for model training/testing
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+└── .git/ # Git repository folder
