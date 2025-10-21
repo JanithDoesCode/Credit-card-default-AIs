@@ -1,10 +1,10 @@
-# 💳 Credit Card Default Prediction AI
+# Credit Card Default Prediction AI
 
 This project is an **AI-powered machine learning model** that predicts whether a customer is likely to default on their credit card payment next month based on financial and demographic features.
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 - Developed using **Random Forest Classifier** with hyperparameter tuning using **RandomizedSearchCV**.
 - Preprocessed data by encoding categorical variables and standardizing numeric values.
@@ -13,7 +13,7 @@ This project is an **AI-powered machine learning model** that predicts whether a
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |-----------|-------|
@@ -25,6 +25,6 @@ This project is an **AI-powered machine learning model** that predicts whether a
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 
