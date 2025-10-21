@@ -23,8 +23,4 @@ This project is an **AI-powered machine learning model** that predicts whether a
 | Model Tuning | RandomizedSearchCV |
 | Deployment Ready | ✅ Pickle model file |
 
----
-
-## Project Structure
-
 
